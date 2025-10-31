@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-cielo-pastel-acuarela-pintado-mano_52683-62185.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: 100% 100%;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: 90px;
+    padding: 20px;
+}
+#quadrado{
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: lightblue;
+    margin: auto;
+    padding: 20px;
+}
+button{
+    min-width: 100px;
+    min-height: 100px;
+    margin: auto;
+    display: inline;
+    padding: 8px;
+    margin-top: 10px;
+}
